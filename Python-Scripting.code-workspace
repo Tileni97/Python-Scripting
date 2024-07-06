@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Python-Scripting",
+			"path": "."
+		},
+		{
+			"name": "data",
+			"path": "../../../Downloads/Python-Scripting-Project-main/Python-Scripting-Project-main/data"
+		}
+	],
+	"settings": {}
+}
