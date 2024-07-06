@@ -11,8 +11,7 @@ Python 3.x
 External dependencies: None (standard library only)
 
 # Installation
-Clone the repository:
-git clone https://github.com/your_username/your_repository.git
+Clone the repository
 Navigate to the project directory:
 cd your_repository
 Install Python dependencies (if any):
